@@ -12,4 +12,4 @@ go build
 ```
 
 ## Credit
-- [KTP Checker Android](https://github.com/dyazincahya/ktp-checker-android)
+- [KTP Checker Android](https://github.com/dyazincahya)
